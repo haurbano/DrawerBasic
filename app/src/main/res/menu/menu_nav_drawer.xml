@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pizza"
+        android:title="Pizza"
+        android:icon="@android:drawable/ic_delete"
+        />
+    <item
+        android:id="@+id/hamburguesa"
+        android:title="Hamburguesa"
+        android:icon="@android:drawable/ic_dialog_email"/>
+    <item
+        android:id="@+id/perro"
+        android:title="Perro Caliente"
+        android:icon="@android:drawable/ic_input_add"/>
+    <item android:id="@+id/sandwich"
+        android:title="Sandwich"
+        android:icon="@android:drawable/ic_lock_idle_low_battery"/>
+
+</menu>
